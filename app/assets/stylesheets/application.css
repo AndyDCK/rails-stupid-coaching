@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+ h2 {
+  justify-content: space-between;
+ }
+
+ input {
+  color: black;
+  padding: 3px;
+  border-color: rgb(0, 0, 0);
+ }
